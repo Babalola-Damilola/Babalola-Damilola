@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Babalola-Damilola
 - 👀 I’m a Junior Data Analyst Certified by Google
 - 🌱 I’m currently working on several projects
-- 💞️ I’m looking for a Junior Data Analyst role or Internship
+- 💞️ I’m looking for an Entry level Data Analyst role or Data Analyst Intern role  
 - 📫 How to reach me babaloladamilola42@gmail.com
 
 <!---
